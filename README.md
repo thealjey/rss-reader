@@ -18,5 +18,6 @@ Yet, it is a fully functioning RSS reader application.
 
 1. clone the project onto your computer
 2. enter the directory with `cd rss-reader`
-3. run the app with `npm run dev-server`, wait until it is fully initialized
-4. in your browser visit the following url: [http://localhost:3000/](http://localhost:3000/)
+3. install npm dependencies with `npm i`
+4. run the app with `npm run dev-server`, wait until it is fully initialized
+5. in your browser visit the following url: [http://localhost:3000/](http://localhost:3000/)
