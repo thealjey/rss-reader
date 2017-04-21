@@ -1,0 +1,4 @@
+---
+extends: ./node_modules/webcompiler/.stylelintrc.yaml
+rules:
+  scss/declaration-nested-properties: never

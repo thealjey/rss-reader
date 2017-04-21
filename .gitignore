@@ -35,3 +35,7 @@ jspm_packages
 
 # Optional REPL history
 .node_repl_history
+
+# generated development files
+development/style.css
+development/style.css.map

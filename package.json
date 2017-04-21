@@ -1,0 +1,32 @@
+{
+  "name": "rss-reader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev-server": "babel-node bin/dev-server"
+  },
+  "keywords": [],
+  "author": "Eugene Kuzmenko",
+  "license": "MIT",
+  "dependencies": {
+    "classnames": "^2.2.5",
+    "feedparser": "^2.2.0",
+    "immutable": "^3.8.1",
+    "isomorphic-fetch": "^2.2.1",
+    "lodash": "^4.17.4",
+    "prop-types": "^15.5.8",
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4",
+    "react-redux": "^5.0.4",
+    "redux": "^3.6.0",
+    "redux-actions": "^2.0.2",
+    "redux-batched-actions": "^0.1.5",
+    "redux-thunk": "^2.2.0",
+    "reselect": "^3.0.0"
+  },
+  "devDependencies": {
+    "webcompiler": "^7.0.1"
+  }
+}
